@@ -1,6 +1,6 @@
 
-$appServiceName = 'TODO';
-$password = 'TODO'
+$appServiceName = 'lab-app-nanptg';
+$password = 'tgoFaZKHiGePKtJl5dMRkWPecobQfjXYGrumpDjGc0je8l0XymDhqQthiKTb'
 $packageLocation = '$(System.DefaultWorkingDirectory)/api-package/api-package/WeatherForecast.Api.zip';
 
 ########################################################
